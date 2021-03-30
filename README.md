@@ -5,3 +5,4 @@
 ### perform various crud operation like search , delete and insert contact details.
 
 ### I took help of STL container multimap to store name and phone number.
+### It provide user to search for specific contact and also delete searched contact.
